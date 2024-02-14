@@ -1,0 +1,75 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:linear-gradient(#f0f0f0, #73807e);
+    
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color:peachpuff;
+}
+
+.navbar-brand{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #1a1a1b!important;
+}
+
+.nav-link{
+    color: #232425!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: rgb(112, 112, 112, 0.5)!important;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(0, 0, 0)!important;
+    color: rgb(240, 233, 233)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.5s;
+}
+
+.btn-info:hover{
+    background-color: rgb(112, 112, 112)!important;
+}
+
+#a{
+    color: #312c51;
+}
+.navbar-brand img{
+    height: 55px;
+    padding-left: 30px;
+}
+th{
+    background-image: linear-gradient(#f0f0f0, #73807e);
+}
+td{
+    background-image: linear-gradient(#f0f0f0, #eee5e5);
+}
+table, td, th {
+    border: 1px solid black;
+}
+
+footer{
+    text-align: center;
+    height: 200px;
+    color: seashell;
+    background-color:rgba(0, 0, 0, 0.856);
+}
+.lfooter{
+    margin-top: 20px;
+    padding-bottom: 0%;
+    height:30%;
+    color: #333;
+    background-color: rgb(255, 255, 255);
+}
